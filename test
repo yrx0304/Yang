@@ -1,3 +1,7 @@
 22222
 creat a new branch!
-creating a new branch is quick & simple
+<<<<<<< HEAD
+creat a new branch is quick AND simple
+=======
+creat a new branch is quick AND simple.
+>>>>>>> yang
